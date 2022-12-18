@@ -2,7 +2,7 @@
 
 
 fork the git from "https://github.com/sadanand-k/20221218.git".
-clone the repo to master instance from the personal github.
+clone the repo to master instance from the personal GitHub.
 add a file with name "task" in /20221218/project/ path.
 append the below data in the "task" file.
 "Hi this is master instance"
@@ -16,4 +16,4 @@ push git
 now pull the code into master instance and keep both data "Hi this is master instance" and "Hello all this is master instance" in the task file.
 and push the final data into the git
 
-*Task should be completed by EOD, whoever complete the task first, will get a small gift from myside.
+*Task should be completed by EOD, whoever complete the task first, will get a small gift from my side.
