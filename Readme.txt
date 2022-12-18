@@ -13,7 +13,7 @@ modify the data in "task" file as mentioned below
 "Hello all this is master instance"
 ignore the "folder"
 push git
-now pull the code into master instance and keep both data "Hi this is master instance" and "Hello all this is master instance" in the task file.
+now pull the code into master instance and keep both data 1st line "Hi this is master instance" and 2nd line "Hello all this is master instance" in the task file.
 and push the final data into the git
 
 *Task should be completed by EOD and create a ppt with the screenshots of all the steps.
