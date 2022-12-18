@@ -1,7 +1,7 @@
 2022-Dec-18 --- task
 
 
-fork the git from "https://github.com/sadanand-k/Tomcat_Project.git".
+fork the git from "https://github.com/sadanand-k/20221218.git".
 clone the repo to master instance from the personal github.
 add a file with name "task" in /20221218/project/ path.
 append the below data in the "task" file.
