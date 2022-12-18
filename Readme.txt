@@ -16,4 +16,4 @@ push git
 now pull the code into master instance and keep both data "Hi this is master instance" and "Hello all this is master instance" in the task file.
 and push the final data into the git
 
-*Task should be completed by EOD, whoever complete the task first, will get a small gift from my side.
+*Task should be completed by EOD and create a ppt with the screenshots of all the steps.
